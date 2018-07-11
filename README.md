@@ -1,4 +1,7 @@
 # cs61b
-https://sp18.datastructur.es/resources
 
-https://sp18.datastructur.es/
+Course: https://sp18.datastructur.es/
+
+Textbook: https://www.gitbook.com/book/joshhug/hug61b
+
+Resourse: https://sp18.datastructur.es/resources
